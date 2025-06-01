@@ -7,6 +7,7 @@ IoT smart watering system based partly on FAO Irrigation and drainage paper 56.
  - Gateway Hub:
    - ESP-NOW to UART: [link](https://github.com/HeitererGarten/fao56-espnow-uart-hub)
    - UART to MQTT: [link](https://github.com/HeitererGarten/fao56-uart-mqtt-hub)
+   - Pump Controller: [link](https://github.com/HeitererGarten/fao56-pump-control)
  - Python client: [link](https://github.com/HeitererGarten/fao56-py-client)
  - Web-app: [link](https://github.com/HeitererGarten/WebGarden)
 
