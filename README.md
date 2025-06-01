@@ -10,6 +10,7 @@ IoT smart watering system based partly on FAO Irrigation and drainage paper 56.
  - Pump Controller: [link](https://github.com/HeitererGarten/fao56-pump-control)
  - Python client: [link](https://github.com/HeitererGarten/fao56-py-client)
  - Web-app: [link](https://github.com/HeitererGarten/WebGarden)
+ - Irrigation scheduler: [link](https://github.com/HeitererGarten/fao56_scheduler)
 
 ## Installation 
 Check out the [Wiki](https://github.com/HeitererGarten/fao56-iot-system/wiki) tab.
